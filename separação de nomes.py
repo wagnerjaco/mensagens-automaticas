@@ -1,5 +1,5 @@
 import pandas as pd
-
+#segunda opção 
 #contatos =pd.read_csv('contacts outlook.csv')
 #print(contatos.head())
 #contatos_coluna1 = contatos[["First Name"]]
